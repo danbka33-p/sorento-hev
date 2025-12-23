@@ -1,0 +1,854 @@
+<svg 
+	 xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" i:viewOrigin="62.9788 553.5552" i:rulerOrigin="0 0" i:pageBounds="0 595.2754 841.8896 0"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="714.931" height="510.838" viewBox="0 0 714.931 510.838" overflow="visible" enable-background="new 0 0 714.931 510.838"
+	 xml:space="preserve">
+	<metadata>
+		<variableSets  xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet  varSetName="binding1" locked="none">
+				<variables></variables>
+				<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"></v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw  xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices></slices>
+			<sliceSourceBounds  y="-7894.225" x="-7770.5" width="16383" height="16383" bottomLeftOrigin="true"></sliceSourceBounds>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+			</i:pgfRef>
+		</foreignObject>
+		<g i:extraneous="self">
+			<g id="Page_1" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#CA004F00FF00">
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6001" stroke-miterlimit="2.4142" d="M4.622,159.977
+					h348.662"/>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6001" stroke-miterlimit="2.4142" d="M4.622,282.149
+					h348.662"/>
+				<g>
+					<path i:knockout="Off" fill="none" d="M4.622,64.426h348.663"/>
+					<g>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M4.622,38.626"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="10" line-height="12" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>B/B-E	</span><span  font-family="'SimHei'">蓄电池接线盒</span></p>
+										<p><span  font-size="8">	- 2</span><span  font-family="'SimHei'" font-size="8">母</span><span  font-size="8">/</span><span  font-family="'SimHei'" font-size="8">白色</span><span  font-size="8" line-height="normal">(</span><span  font-size="8" line-height="7">KUM_060_02F_W</span><span  font-size="8" line-height="normal">) </span><span  font-size="8">	- </span><span  font-family="'SimHei'" font-size="8">底板线束</span><span  font-size="8" line-height="normal"> </span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_1_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_1_" transform="matrix(1 0 0 1 4.6223 38.6265)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="10">B/B-E	</tspan><tspan x="51.25" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">蓄电池接线盒</tspan><tspan x="0" y="12" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="12" font-family="'HelveticaLight'" font-size="8">- 2</tspan><tspan x="60.586" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">母</tspan><tspan x="68.586" y="12" font-family="'HelveticaLight'" font-size="8">/</tspan><tspan x="70.81" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">白色</tspan><tspan x="86.81" y="12" font-family="'HelveticaLight'" font-size="8">(</tspan><tspan x="89.474" y="12" font-family="'HelveticaLight'" font-size="8">KUM_060_02F_W</tspan><tspan x="153.049" y="12" font-family="'HelveticaLight'" font-size="8">) </tspan><tspan x="0" y="24" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="24" font-family="'HelveticaLight'" font-size="8">- </tspan><tspan x="56.138" y="24" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">底板线束</tspan><tspan x="88.138" y="24" font-family="'HelveticaLight'" font-size="8"> </tspan></text>
+						</switch>
+					</g>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M188.365,149.673"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>2. R</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_2_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_2_" transform="matrix(1 0 0 1 188.3655 149.6733)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">2. R</tspan></text>
+					</switch>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M226.634,149.673"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>保险丝</span><span  font-family="'HelveticaLight'">-F3: </span><span>蓄电池传感器</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_3_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_3_" transform="matrix(1 0 0 1 226.634 149.6733)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">保险丝</tspan><tspan x="24" y="0" font-family="'HelveticaLight'" font-size="8">-F3: </tspan><tspan x="40.008" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">蓄电池传感器</tspan></text>
+					</switch>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M10.291,149.673"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>1. -</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_4_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_4_" transform="matrix(1 0 0 1 10.2913 149.6733)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">1. -</tspan></text>
+					</switch>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M48.56,149.673"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>-</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_5_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_5_" transform="matrix(1 0 0 1 48.5598 149.6733)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">-</tspan></text>
+					</switch>
+					<g>
+						<g>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M182.38,108.39h11.872"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.251,108.39V98.259"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.251,98.259H182.38"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M182.38,98.259v10.131"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M165.879,108.39h11.868"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M177.747,108.39V98.259"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M177.747,98.259h-11.868"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M165.879,98.259v10.131"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M192.561,72.935h-26.865"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M165.696,75.876v-2.941"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M192.561,75.876v-2.941"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,83.429
+								l1.262,2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,85.528
+								l1.255-2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,84.66v-1.23"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,72.935h-2.941"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,83.429h-2.518"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,84.66v3.841"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M165.696,85.109v-9.233"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M192.561,85.109v-9.233"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M192.561,85.109h-5.035"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M170.735,85.109h-5.039"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M170.735,82.592h16.792"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,89.98v-3.834"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,86.146v-0.618"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,85.528v-8.396"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,72.935v4.197"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,91.467V89.98"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,86.146v3.834"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,85.528v0.618"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,91.467V89.98"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M195.921,88.501V84.66"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M195.921,84.66v-1.23"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,85.528v-8.396"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,83.429h-2.517"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,77.132v-4.197"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.601,72.935h-2.936"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,84.66v-1.23"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,88.501V84.66"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.661,72.93
+								l-0.818,0.169"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.843,73.099
+								l-0.668,0.448"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.175,73.547
+								l-0.45,0.669"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.724,74.216
+								l-0.167,0.817"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,85.528
+								l1.261-2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,91.467v-2.966"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,88.501v2.966"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.602,95.184v-3.717"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M170.735,84.69v-2.098"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M187.527,84.69v-2.098"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.666,91.467v3.717"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M195.921,91.467v-2.966"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,84.66v3.841"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,83.429v1.23"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,83.429
+								l1.263,2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.705,75.034
+								l-0.168-0.817"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.537,74.216
+								l-0.449-0.669"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.088,73.547
+								l-0.669-0.448"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.419,73.099
+								l-0.817-0.169"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,88.501v2.966"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,85.528v0.618"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,86.146v3.834"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,89.98v1.487"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,91.467v27.014"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,75.034v2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,77.132v8.396"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,118.481h-1.261"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,91.467v27.014"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,118.481V91.467"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,91.467v3.717"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M162.341,95.184h8.395"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M170.735,95.184V84.69"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M187.527,95.184V84.69"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M187.527,95.184h8.394"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M195.921,95.184v-3.717"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,118.481h1.263"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,89.98v-3.834"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,86.146v-0.618"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,85.528v-8.396"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,77.132v-2.099"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,118.481V91.467"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,91.467V89.98"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.561,118.481v1.706"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.557,120.187
+								l0.076,0.786"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.633,120.973
+								l0.219,0.756"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.852,121.729
+								l0.353,0.695"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.205,122.424
+								l0.485,0.628"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.69,123.052
+								l3.503,3.754"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.188,126.8
+								l0.654,0.572"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M163.842,127.372
+								l0.746,0.419"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M164.588,127.791
+								l0.816,0.26"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M165.404,128.051
+								l0.858,0.086"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M166.262,128.137h25.737"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M191.999,128.137
+								l0.858-0.086"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M192.857,128.051
+								l0.817-0.26"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M193.674,127.791
+								l0.746-0.419"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M194.42,127.372
+								l0.653-0.572"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M195.069,126.806
+								l3.503-3.754"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.572,123.052
+								l0.485-0.628"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.057,122.424
+								l0.353-0.695"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.41,121.729
+								l0.219-0.756"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.629,120.973
+								l0.077-0.786"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.7,120.187v-1.706"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.557,118.486
+								l0.101,0.49"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.658,118.976
+								l0.271,0.398"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M158.928,119.374
+								l0.399,0.272"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.327,119.646
+								l0.491,0.1"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.823,118.481v1.261"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,118.481v1.261"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,118.481h-38.615"
+								/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.444,119.747l0.49-0.1
+								"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.934,119.646
+								l0.398-0.272"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.332,119.374
+								l0.271-0.398"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M199.604,118.976
+								l0.102-0.49"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M198.438,119.742h-38.615"
+								/>
+						</g>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M188.413,106.358"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="2.452" text-align="center" text-align-last="center" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>1</span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_6_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_6_" transform="matrix(1 0 0 1 186.1887 106.3584)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">1</tspan></text>
+						</switch>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M171.836,106.358"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="2.452" text-align="center" text-align-last="center" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>2</span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_7_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_7_" transform="matrix(1 0 0 1 169.6116 106.3584)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">2</tspan></text>
+						</switch>
+					</g>
+				</g>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6001" stroke-miterlimit="2.4142" d="M357.466,22.977
+					v487.554"/>
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M4.557,15.951"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="11.9999" line-height="12" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p><span>蓄电池接线盒</span><span  font-family="'HelveticaLight'">(1)</span></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_8_" ></x:targetRef>
+					</foreignObject>
+					<text id="XMLID_8_" transform="matrix(1 0 0 1 4.5569 15.9514)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="11.9999">蓄电池接线盒</tspan><tspan x="72" y="0" font-family="'HelveticaLight'" font-size="11.9999">(1)</tspan></text>
+				</switch>
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M710.379,15.948"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  fill-rule="evenodd" clip-rule="evenodd" font-family="'HelveticaLight'" font-size="12" a:adobe-justification-word-spacing-max="3"  a:adobe-justification-letter-spacing-max="2" line-height="12" text-align="right" text-align-last="right" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p><span>CV83-1</span></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_9_" ></x:targetRef>
+					</foreignObject>
+					<text id="XMLID_9_" transform="matrix(1 0 0 1 670.3713 15.9475)"><tspan x="0" y="0" fill-rule="evenodd" clip-rule="evenodd" font-family="'HelveticaLight'" font-size="12">CV83-1</tspan></text>
+				</switch>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6001" stroke-miterlimit="2.4142" d="M714.631,0.3v510.238
+					H0.3V0.3H714.631z"/>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.0001" stroke-miterlimit="2.4142" d="M0.3,22.977h714.331"
+					/>
+				<g>
+				</g>
+				<g>
+					<path i:knockout="Off" fill="none" d="M4.622,203.9h348.662"/>
+					<g>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M4.622,178.1"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="10" line-height="12" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>B/B-RS	</span><span  font-family="'SimHei'">蓄电池接线盒</span></p>
+										<p><span  font-size="8">	- 1</span><span  font-family="'SimHei'" font-size="8">母</span><span  font-size="8">/</span><span  font-family="'SimHei'" font-size="8">白色</span><span  font-size="8" line-height="normal">(</span><span  font-size="8" line-height="7">KET_58L_01F_W</span><span  font-size="8" line-height="normal">) </span><span  font-size="8">	- </span><span  font-family="'SimHei'" font-size="8">底板线束</span><span  font-size="8" line-height="normal"> </span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_10_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_10_" transform="matrix(1 0 0 1 4.6223 178.1001)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="10">B/B-RS	</tspan><tspan x="51.25" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">蓄电池接线盒</tspan><tspan x="0" y="12" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="12" font-family="'HelveticaLight'" font-size="8">- 1</tspan><tspan x="60.586" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">母</tspan><tspan x="68.586" y="12" font-family="'HelveticaLight'" font-size="8">/</tspan><tspan x="70.81" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">白色</tspan><tspan x="86.81" y="12" font-family="'HelveticaLight'" font-size="8">(</tspan><tspan x="89.474" y="12" font-family="'HelveticaLight'" font-size="8">KET_58L_01F_W</tspan><tspan x="149.946" y="12" font-family="'HelveticaLight'" font-size="8">) </tspan><tspan x="0" y="24" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="24" font-family="'HelveticaLight'" font-size="8">- </tspan><tspan x="56.138" y="24" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">底板线束</tspan><tspan x="88.138" y="24" font-family="'HelveticaLight'" font-size="8"> </tspan></text>
+						</switch>
+					</g>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M10.291,271.846"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>1. R</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_11_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_11_" transform="matrix(1 0 0 1 10.2913 271.8462)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">1. R</tspan></text>
+					</switch>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M48.56,271.846"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>保险丝</span><span  font-family="'HelveticaLight'">-F1: </span><span>后接线块</span><span  font-family="'HelveticaLight'">(</span><span>保险丝</span><span  font-family="'HelveticaLight'">-F51~F69)</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_12_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_12_" transform="matrix(1 0 0 1 48.5598 271.8462)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">保险丝</tspan><tspan x="24" y="0" font-family="'HelveticaLight'" font-size="8">-F1: </tspan><tspan x="40.008" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">后接线块</tspan><tspan x="72.008" y="0" font-family="'HelveticaLight'" font-size="8">(</tspan><tspan x="74.672" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">保险丝</tspan><tspan x="98.672" y="0" font-family="'HelveticaLight'" font-size="8">-F51~F69)</tspan></text>
+					</switch>
+					<g>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M185.451,221.023v-3.702"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,221.023v-3.702"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,217.321h13.68"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,221.023h13.68"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,213.771
+							l-0.112-0.534"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.129,213.237
+							l-0.293-0.435"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M189.836,212.802
+							l-0.435-0.294"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M189.401,212.508
+							l-0.534-0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M168.356,212.403
+							l-0.533,0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.823,212.508
+							l-0.436,0.294"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.387,212.802
+							l-0.293,0.435"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.094,213.237
+							l-0.112,0.534"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M166.982,222.119h23.258"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M168.348,212.403h20.519"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,226.458h5.879"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.493,227.824
+							l-0.112-0.532"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.381,227.292
+							l-0.293-0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.088,226.856
+							l-0.436-0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.653,226.563
+							l-0.533-0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.493,248.718v-20.895"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.119,250.085
+							l0.533-0.113"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.653,249.973
+							l0.436-0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.088,249.68
+							l0.293-0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.381,249.244
+							l0.112-0.533"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.548,230.934
+							l-0.571,0.24"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.977,231.173
+							l-0.248,0.578"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.729,248.718v-16.967"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.729,248.711
+							l0.113,0.533"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.842,249.244
+							l0.292,0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.134,249.68
+							l0.436,0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.57,249.973
+							l0.533,0.113"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M161.103,250.085h35.017"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.555,230.934h36.938"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M166.982,230.934v-17.163"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,226.458v-12.688"/>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M179.592,244.282"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="10" line-height="2.35" text-align="center" text-align-last="center" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>1</span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_13_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_13_" transform="matrix(1 0 0 1 176.8123 244.2817)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="10">1</tspan></text>
+						</switch>
+					</g>
+				</g>
+				<g>
+					<path i:knockout="Off" fill="none" d="M4.622,326.073h348.662"/>
+					<g>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M4.622,300.273"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="10" line-height="12" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>B/B-ST	</span><span  font-family="'SimHei'">蓄电池接线盒</span></p>
+										<p><span  font-size="8">	- 1</span><span  font-family="'SimHei'" font-size="8" line-height="normal">母</span><span  font-size="8" line-height="normal">/</span><span  font-family="'SimHei'" font-size="8" line-height="normal">黑色</span><span  font-size="8" line-height="normal">(</span><span  font-size="8" line-height="7">KET_58L_01F_B</span><span  font-size="8" line-height="normal">) </span><span  font-size="8">	- </span><span  font-family="'SimHei'" font-size="8">蓄电池线束</span><span  font-size="8" line-height="normal"> </span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_14_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_14_" transform="matrix(1 0 0 1 4.6223 300.2729)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="10">B/B-ST	</tspan><tspan x="51.25" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">蓄电池接线盒</tspan><tspan x="0" y="12" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="12" font-family="'HelveticaLight'" font-size="8">- 1</tspan><tspan x="60.586" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">母</tspan><tspan x="68.586" y="12" font-family="'HelveticaLight'" font-size="8">/</tspan><tspan x="70.81" y="12" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">黑色</tspan><tspan x="86.81" y="12" font-family="'HelveticaLight'" font-size="8">(</tspan><tspan x="89.474" y="12" font-family="'HelveticaLight'" font-size="8">KET_58L_01F_B</tspan><tspan x="148.169" y="12" font-family="'HelveticaLight'" font-size="8">) </tspan><tspan x="0" y="24" font-family="'HelveticaLight'" font-size="8">	</tspan><tspan x="51.25" y="24" font-family="'HelveticaLight'" font-size="8">- </tspan><tspan x="56.138" y="24" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">蓄电池线束</tspan><tspan x="96.138" y="24" font-family="'HelveticaLight'" font-size="8"> </tspan></text>
+						</switch>
+					</g>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M10.291,394.019"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>1. B</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_15_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_15_" transform="matrix(1 0 0 1 10.2913 394.019)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="8">1. B</tspan></text>
+					</switch>
+					<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+						<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+							<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+								<region>
+									<path d="M48.56,394.019"/>
+								</region>
+								<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="8" line-height="10" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+									<p><span>保险丝</span><span  font-family="'HelveticaLight'">-F2: </span><span>金属芯块</span><span  font-family="'HelveticaLight'">(PCB #2</span><span>保险丝</span><span  font-family="'HelveticaLight'">-F57 ~ F67)</span></p>
+								</flow>
+							</flowDef>
+							<x:targetRef  xlink:href="#XMLID_16_" ></x:targetRef>
+						</foreignObject>
+						<text id="XMLID_16_" transform="matrix(1 0 0 1 48.5598 394.019)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">保险丝</tspan><tspan x="24" y="0" font-family="'HelveticaLight'" font-size="8">-F2: </tspan><tspan x="40.008" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">金属芯块</tspan><tspan x="72.008" y="0" font-family="'HelveticaLight'" font-size="8">(PCB #2</tspan><tspan x="101.792" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="8">保险丝</tspan><tspan x="125.792" y="0" font-family="'HelveticaLight'" font-size="8">-F57 ~ F67)</tspan></text>
+					</switch>
+					<g>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M185.451,343.196v-3.702"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,343.196v-3.702"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,339.494h13.68"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M171.771,343.196h13.68"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,335.943
+							l-0.112-0.534"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.129,335.41
+							l-0.293-0.435"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M189.836,334.975
+							l-0.435-0.294"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M189.401,334.681
+							l-0.534-0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M168.356,334.576
+							l-0.533,0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.823,334.681
+							l-0.436,0.294"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.387,334.975
+							l-0.293,0.435"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M167.094,335.41
+							l-0.112,0.534"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M166.982,344.292h23.258"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M168.348,334.576h20.519"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,348.631h5.879"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.493,349.997
+							l-0.112-0.532"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.381,349.465
+							l-0.293-0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.088,349.029
+							l-0.436-0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.653,348.736
+							l-0.533-0.105"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.493,370.891v-20.895"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.119,372.258
+							l0.533-0.113"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M196.653,372.146
+							l0.436-0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.088,371.853
+							l0.293-0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M197.381,371.417
+							l0.112-0.533"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.548,353.106
+							l-0.571,0.24"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.977,353.346
+							l-0.248,0.578"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.729,370.891v-16.967"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.729,370.884
+							l0.113,0.533"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M159.842,371.417
+							l0.292,0.436"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.134,371.853
+							l0.436,0.292"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.57,372.146
+							l0.533,0.113"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M161.103,372.258h35.017"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M160.555,353.106h36.938"/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M166.982,353.106v-17.163"
+							/>
+						<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6" stroke-miterlimit="2" d="M190.24,348.631v-12.688"/>
+						<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+							<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+								<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+									<region>
+										<path d="M179.592,366.455"/>
+									</region>
+									<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'HelveticaLight'" font-size="10" line-height="2.35" text-align="center" text-align-last="center" kerning="0em"  a:adobe-baseline-direction="vertical-rotated"  a:adobe-consecutive-hyphens="99">
+										<p><span>1</span></p>
+									</flow>
+								</flowDef>
+								<x:targetRef  xlink:href="#XMLID_17_" ></x:targetRef>
+							</foreignObject>
+							<text id="XMLID_17_" transform="matrix(1 0 0 1 176.8123 366.4546)"><tspan x="0" y="0" font-family="'HelveticaLight'" font-size="10">1</tspan></text>
+						</switch>
+					</g>
+				</g>
+			</g>
+		</g>
+	</switch>
+	<i:pgf  id="adobe_illustrator_pgf">
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		OMX05KoFBpLaAe/R7AAc4EajbQwOcYMBodOMkIaQDzE4xE1pV0p2RU+oysejccqCDabCOzYLATaq
+4t7gFYINbiVw7BDwB15/6nBDsB1syTwCED9z7Q22AdjgKlXh1b8oVaJocUOwGb9YyfEOZYX38jt6
+AaxQbhAsC+coVnjzOQIZkNjihmDCxW+FoNnFT5WpVodjsHHE8XPABJR54eiNwYRb92COWBKwYNZn
+j6GkEQVdGBsiRkAztagEXs0b1t4BE67qKWlI8lrVAZtRWdTI7pBbHbDR3lyyqmW30/S8KL3OMdZR
+SvzOYdi7HbAdE7WIBlLTARtcUYEUR9LYAVvNwU+3RVLeAVtcLaKB9rTa62nPFsvUahqA8btLVtPw
+JEwhCtDemnmaFoANbp2XnIAMbyd2uCHYaI/IlSaszlttj8EGFz95TcAqrzoeaHKkQty2K5IG2gH3
+onaqanHRfDrCTLE1EyxuWQdspYFsUMCwGGp9NOzrqB864FAWTEfGLdPt3cqu3eHYmmGIqeyxWnXD
+cqcct6WZeHOwlOPOC9pFpH3LJ4zWROgbsMxGc9lRoVzgif6QwBHUPuYHh6oDNnVijOHy3EnB8e7E
+osokWo5SfxTXAQsBY7Y1ip0FM9JKKXDlTGyLhG7jcrsIBPIHP3jpsmDQ6FN9iTcGeoXyQufhUpSg
+lSib1y4vPNTCkSWJ4RdYaQFJAhN07Pkxu3iS7Ir0guvjH8evvE1GL1+8enb+7MV342ihdVsUu8T7
+++m7p8jlsrsseVrgxKZUgbAwWm3ttovrJlWmRe2SGC0AeguCwi4IEtPbBZzRXypxmhb2h2r+PoHV
+K8klxgLpM69SgHJKMjAOiGLLSrLHCtcBqioFclmfp8oDIN4fmmwUMJG+1ZPrf8ALy7NT6CdwpnBR
+Hia7Xpu/HZx//+x12F4YgalZJ44WT/taWiyQ1M8tcmMWmLBURVX1SvAXMI8Fejtwn+Nx5ifZ/zQF
+srwIszhoMg+pN4trMcAttQi9ThDVYqDJPByv7Fe4OKFYCS3QeRwUhBvH2DCPrGv8SlKUx0GTeQr8
+Qgla2iCPg6bzMHDRahxFgzwWmszDWGEsZ8CEFpzkAqvAMQXcOsrlwOlcrDDkx3XZVm2pC4SKi25d
+BpzOBVNkZG/EwBac5oYqUyxswelcMk8JRQtO5ypqI2hhLgdO5gIfMKUaLTgttTV4wzVeOBzmcuB0
+LpraYQOiuix4S134DfoKvP+oLgtO5xK10t89CRXLgdPcKGWKhy04nQvGp4RstOBtuYzAxbmsHKZy
+CV6nNKUFJ7lR5HkNJlpFuVpwMhcUahoQ12XbtaUu8O6k7FSloemaCm0kI1604DQvKpHiYAtO51Iy
+JRkteEuuwohblMuCk7lOWY5fVALhDrnhwZP8OEUWSynjbA6czsWwP5UoRKc2C0/nE7iWj9/dCrM5
+cDpXBfMEQOEhR1pwmiMYxGKiinM5cDqXkuD+4IQpzOXAW3KpXH86M8plwelcPK+ZDkdEzHfwLdwX
+YNVLnpcx9x18S1/D/BSm0XW3PgvfVl9l2hHXZ+Fb8tWMuKYitrTwLbIMkoc9G7OzhW/JV3IjfVE+
+B9+WTyRFpYUn892e2LNK5PHqqFGl6No4C/FqMbh6eqHdT4PsQAls3CMpmPKxLaiLjZ8ll0VAh4H4
+OljRR0Q9i1nC9MQBYsyihoYzh2ceu3WfFrXEr2h5lTtQAhsFp2A+soEkcHEBFT8G7iFbUJIO7Kkq
+pEOD4rad4te5cq91DtDBREaWemFNY1pAos8qhh/f8jnhQF1slpOLpmM8Br2FpfDBRQAZKAJ8C0tR
+U/QKUYbUGFDcSnDDShwGuWtmC+nigguGvpGHayEJqhnH72RJv8dbmF82U1UPfMJ4hLDgLZatkMnR
+r4VvGY8YzOZqJTsDkoOn89lWKYbOkPBFs4WF9BlL0qHPWpid9UgQ4BwsrV+PgyW5jdGkkNcEaXG9
+0BVIfUUGMrJ/Drxl+FL4DRNVx2azhW/JV+VmuInyOXg6nxY7WUnw/LU10GLnIF1cVWOES3q4FhLQ
+w5LDTQvfYv7dHvsC2ISfM73299hb4HzXHnhRyl4h6dvdu/fAH7Tl+u7b0ZO7z2lr+fev/n/eW84O
+2n/7D7W3fHz+RlbP3+Ts695yvXMZ9LyHH3g9dl85O3JfudvRvLvCX39bOTtsW7m+Ikwk9BV+S3ZM
+nU4Mf/3GSfZfE1VvWTjwdoXv2hNe9Qpe47ddYegUXK++tUAw8MKtXosCr0cOMC0oiWeAx5XYIcis
+Wgv8vCZ+cxYMZGX3s4kew6VhUeT6a74ONwQTLjef1MbN4LLd+xaDDa6AwRmATH8c2eGGYMJlvarA
+j+ECkEnm9uox/KxtCyVm5bj6WMXFdsAGV39jNyS3Aza4eSl4zIYO2Gx1qPGD7o6Pz+1eBwNm4C4r
+y13Dcg1rG8ZLFrZsCxNcCbwE902ZTqvh74q1wOd282pRgtMrcLuDYGarAX69FTnOjafhcEOwwc2V
+0kBV1x5uCDY0KFxxQGBdM7dhKgYfQi+G4ITdgBQ3wpWri8gFOotlSAMAve0OHXDQNgwelTJumoEG
+HAOyBGMxwww0oBUbULTbIqBaTvziPcWZ26pfS/xcMm5YqNodMjHYbl/IQZox/owOpUMlqM+t/ZiF
+tyGBG2DbqhhKmKD7eJ4p5FQMNZgSJigx/ztgwi16OXjIbQca3BgcyEuEC8XBiBLytZUXA4y0MeiD
+tOamdSy2ls+7K+28AAOrOV2DayCK1H6Bsjpoc8ODeOx2B4SQ+aE7INLbE9rZCm4NKyrultj0MV8L
+3DlbIR5WnO+dreTRYjZOJF6df51I7HSAWlp+tQkFMkjwO0wo9kwkhr/FRGKbWPzmEwoG5k7i5bp3
+mFEM7zSj2FPjr+9180OnFFJfjIxdg7cl023K6m5TipejYfYvBx3+fpiJRZn9VzZR5YNMLTgj7yOc
+CHAGY6dy2671RCDAtKAkngEeV2KHoHAE1avzdgOvmUNwVvVgfiBb3BDsTy0QSKc6wqmFA/tTCwRW
+ZdGiBlDfp0ZYXUbzCgv0pxVhkTHUn1REhHbA/qQiYkAH7LsmjoOhG8PRwbBuuuO2BYbTCr9haQ60
+BeCVGqIKnC4HDJ10js6crFTgIiNuXuci8pEd2He8EQhucRF53g7sO/QIBGe4ihx6Bz6AXlbhtvoi
+dNRdI8JJBatwJcLORk1lCCzyOp7YOLDfNkYhGs6itjmwzzMkjGL4Ic8c2KeXGlG6SZCdWPAcNy21
+e51pBoFAnntHfQKoN1lgNTbFxySoz6/9mCWze2T0BCJqVQfsTywibnXA/tQi6oUO2J9auG4MpxZx
+74ZdHk4tAs62UmOAsU76vZDW37SmxdZy19SCVSXYy1z900wtnnvfa6FrlOgrAN/gpUfnq+lsjvcq
+vV9PPzXZdLFYbqab5gYvT3q/atab5arJ1h+WPyMEM7kM33wzfjE5efT/AJ3/eqA=
+		]]>
+	</i:pgf>
+</svg>

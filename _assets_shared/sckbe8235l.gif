@@ -1,0 +1,399 @@
+<svg 
+	 xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" i:viewOrigin="63.4792 553.0559" i:rulerOrigin="-0.5 0.5" i:pageBounds="0.5 594.7754 842.3896 -0.5"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="714.931" height="510.837" viewBox="0 0 714.931 510.837" overflow="visible" enable-background="new 0 0 714.931 510.837"
+	 xml:space="preserve">
+	<metadata>
+		<variableSets  xmlns="http://ns.adobe.com/Variables/1.0/">
+			<variableSet  varSetName="binding1" locked="none">
+				<variables></variables>
+				<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"></v:sampleDataSets>
+			</variableSet>
+		</variableSets>
+		<sfw  xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+			<slices></slices>
+			<sliceSourceBounds  y="-7894.725" x="-7770" width="16383" height="16383" bottomLeftOrigin="true"></sliceSourceBounds>
+		</sfw>
+	</metadata>
+	<switch>
+		<foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1">
+			<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+			</i:pgfRef>
+		</foreignObject>
+		<g i:extraneous="self">
+			
+				<g id="격자" i:layer="yes" i:visible="no" i:editable="no" i:printed="no" i:dimmedPercent="100" i:rgbTrio="#4F008000FFFF" display="none">
+			</g>
+			<g id="레이어_1" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#FFFF4F004F00">
+			</g>
+			<g id="데스크톱" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#4F00FFFF4F00">
+			</g>
+			<g id="안내" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#4F004F00FFFF">
+			</g>
+			<g id="Page_1" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#FFFFFFFF4F00">
+			</g>
+			<g id="레이어_1_1_" i:layer="yes" i:dimmedPercent="100" i:rgbTrio="#FFFF4F00FFFF">
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M4.544,15.948"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="12" a:adobe-justification-word-spacing-max="3"  a:adobe-justification-letter-spacing-max="2" line-height="12" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p><span>维修提示</span><span  fill-rule="evenodd" clip-rule="evenodd"> </span><span  fill-rule="evenodd" clip-rule="evenodd" font-family="'Helvetica-Bold'">(1)</span></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_1_" ></x:targetRef>
+					</foreignObject>
+					<text id="XMLID_1_" transform="matrix(1 0 0 1 4.5442 15.9475)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="12">维修提示</tspan><tspan x="48" y="0" fill-rule="evenodd" clip-rule="evenodd" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="12"> </tspan><tspan x="54" y="0" fill-rule="evenodd" clip-rule="evenodd" font-family="'Helvetica-Bold'" font-size="12">(1)</tspan></text>
+				</switch>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="0.6001" stroke-miterlimit="2.4142" d="M714.631,0.3v510.236
+					H0.3V0.3H714.631z"/>
+				<path i:knockout="Off" fill="none" stroke="#000000" stroke-width="2.0001" stroke-miterlimit="2.4142" d="M0.3,22.977h714.331"
+					/>
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M7.366,40.423"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'SimHei'" font-size="12" a:adobe-justification-word-spacing-max="3"  a:adobe-justification-letter-spacing-max="2" line-height="15" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p><span>电路说明</span></p>
+								<p><span  font-size="9.5" letter-spacing="0.021em">系统通过网络连接在每个模块之间的数据输入和输出程序进行控制的。转向灯</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.021em">&</span></p>
+								<p><span  font-size="9.5" letter-spacing="0.021em">危险警告灯由智能接线盒内的</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.021em">IPS</span><span  font-size="9.5" letter-spacing="0.021em">和</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.021em">ARISU-LT</span><span  font-size="9.5" letter-spacing="0.021em">进行控制。</span></p>
+								<p><span  font-size="9.5" letter-spacing="-0.008em">要操作自动灯光，点火开关必须在</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.008em"> ON </span><span  font-size="9.5" letter-spacing="-0.008em">位置以上。灯光开关在“自动”模式时，根</span></p>
+								<p><span  font-size="9.5" letter-spacing="-0.02em">据驾驶条件</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.006em">(</span><span  font-size="9.5" letter-spacing="-0.006em">雨、雪、夜晚、隧道</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.006em">)</span><span  font-size="9.5" letter-spacing="-0.006em">检测车辆周围的亮度，自动灯光</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.006em">&</span><span  font-size="9.5" letter-spacing="-0.006em">光照度传感器自</span></p>
+								<p><span  font-size="9.5" letter-spacing="-0.006em">动控制大灯和尾灯</span><span  font-family="'Gulim'" font-size="9.5" letter-spacing="-0.006em">。</span></p>
+								<p></p>
+								<p><span  stroke="#000000" stroke-width="0.25" font-family="'Gulim'" font-size="10">※</span><span  stroke="#000000" stroke-width="0.25" font-family="'TimesNewRomanPSMT'" font-size="10"> </span><span  font-size="10">注意</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5"> 1. </span><span  font-size="9.5">不要在传感器上部放置物品。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5"> 2. </span><span  font-size="9.5">在雾、雨或阴天，使用手动模式。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5"> 3. </span><span  font-size="9.5" letter-spacing="0.02em">根据周围环境（天气、气候）的不同，自动灯光</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.02em"> ON/OFF </span><span  font-size="9.5" letter-spacing="0.02em">时间将会变化。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5"> 4. </span><span  font-size="9.5" letter-spacing="-0.021em">在日出和日落时使用此模式。在其它时间手动控制灯光</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.021em"> ON/OFF </span><span  font-size="9.5" letter-spacing="-0.021em">开关。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5"> 5.</span><span  font-size="9.5" letter-spacing="-0.027em">如果在挡风玻璃上增加了涂层或加膜，会造成传感器失效。</span></p>
+								<p></p>
+								<p><span  stroke="#000000" stroke-width="2" font-family="'Gulim'" font-size="10">ㆍ</span><span  font-size="10">调光</span><span  font-family="'TimesNewRomanPSMT'" font-size="10">/</span><span  font-size="10">超车开关：近光</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5">    </span><span  font-size="9.5">当</span><span  font-size="9.5" letter-spacing="-0.001em">灯光开关在大灯模式，</span><span  font-size="9.5">调光</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">/</span><span  font-size="9.5" letter-spacing="-0.001em">超车开关位于近光位置时，组合开关</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">ECU</span><span  font-size="9.5" letter-spacing="-0.001em">通过</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">    B-CAN</span><span  font-size="9.5" letter-spacing="-0.001em">通信传输信号至</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">IPS</span><span  font-size="9.5" letter-spacing="-0.001em">控制模块。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">    IPS</span><span  font-size="9.5" letter-spacing="-0.001em">控制模块控制</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">ARISU-LT 1</span><span  font-size="9.5" letter-spacing="-0.001em">、</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">2</span><span  font-size="9.5" letter-spacing="-0.001em">，控制大灯</span><span  font-size="9.5" letter-spacing="-0.001em">(</span><span  font-size="9.5" letter-spacing="-0.001em">近光</span><span  font-size="9.5" letter-spacing="-0.001em">)</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">ON</span><span  font-size="9.5" letter-spacing="-0.001em">。</span></p>
+								<p></p>
+								<p><span  stroke="#000000" stroke-width="2" font-family="'Gulim'" font-size="10">ㆍ</span><span  font-size="10">调光</span><span  font-family="'TimesNewRomanPSMT'" font-size="10">/</span><span  font-size="10">超车开关：远光</span></p>
+								<p><span  font-size="9.5">  </span><span  font-size="9.5">当</span><span  font-size="9.5" letter-spacing="-0.001em">灯光开关在大灯模式，</span><span  font-size="9.5">调光</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">/</span><span  font-size="9.5" letter-spacing="-0.001em">超车开关位于远光位置时，组合开关</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">ECU</span><span  font-size="9.5" letter-spacing="-0.001em">通过</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">    B-CAN</span><span  font-size="9.5" letter-spacing="-0.001em">通信传输信号至</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">IPS</span><span  font-size="9.5" letter-spacing="-0.001em">控制模块。</span></p>
+								<p><span  font-family="'TimesNewRomanPSMT'" font-size="9.5">    </span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.031em">IPS</span><span  font-size="9.5" letter-spacing="-0.031em">控制模块控制</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.031em">ARISU-LT 1</span><span  font-size="9.5" letter-spacing="-0.031em">、</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.031em">2</span><span  font-size="9.5" letter-spacing="-0.031em">，</span><span  font-size="9.5" letter-spacing="-0.001em">控制大灯</span><span  font-size="9.5" letter-spacing="-0.001em">(</span><span  font-size="9.5" letter-spacing="-0.001em">远光</span><span  font-size="9.5" letter-spacing="-0.001em">)</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.001em">ON</span><span  font-size="9.5" letter-spacing="-0.001em">，</span><span  font-size="9.5" letter-spacing="-0.031em">并通过</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.031em">C-CAN</span><span  font-size="9.5" letter-spacing="-0.031em">通信传输</span></p>
+								<p><span  font-size="9.5" letter-spacing="-0.031em">  </span><span  font-size="9.5" letter-spacing="-0.031em">信号至仪表盘的微型控制器，控制仪表盘上的大灯远光指示灯</span><span  font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.031em">ON</span><span  font-size="9.5" letter-spacing="-0.031em">。</span></p>
+								<p></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_2_" ></x:targetRef>
+					</foreignObject>
+					<text id="XMLID_2_" transform="matrix(1 0 0 1 7.3665 40.4231)"><tspan x="0" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="12">电路说明</tspan><tspan x="0" y="15" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.199">系统通过网络连接在每个模块之间的数据输入和输出程序进行控制的。转向灯</tspan><tspan x="329.783" y="15" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.199">&</tspan><tspan x="0" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.199">危险警告灯由智能接线盒内的</tspan><tspan x="126.094" y="30" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.199">IPS</tspan><tspan x="140.419" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.199">和</tspan><tspan x="150.119" y="30" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.199">ARISU-LT</tspan><tspan x="194.987" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.199">进行控制。</tspan><tspan x="0" y="45" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.076">要操作自动灯光，点火开关必须在</tspan><tspan x="141.36" y="45" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.076"> ON </tspan><tspan x="159.524" y="45" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.076">位置以上。灯光开关在“自动”模式时，根</tspan><tspan x="0" y="60" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.19">据驾驶条件</tspan><tspan x="46.55" y="60" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.057">(</tspan><tspan x="49.656" y="60" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.057">雨、雪、夜晚、隧道</tspan><tspan x="134.644" y="60" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.057">)</tspan><tspan x="137.75" y="60" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.057">检测车辆周围的亮度，自动灯光</tspan><tspan x="269.952" y="60" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.057">&</tspan><tspan x="277.286" y="60" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.057">光照度传感器自</tspan><tspan x="0" y="75" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.057">动控制大灯和尾灯</tspan><tspan x="75.544" y="75" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="9.5" letter-spacing="-0.057">。</tspan><tspan x="0" y="105" stroke="#000000" stroke-width="0.25" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">※</tspan><tspan x="10" y="105" stroke="#000000" stroke-width="0.25" font-family="'TimesNewRomanPSMT'" font-size="10"> </tspan><tspan x="12.5" y="105" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">注意</tspan><tspan x="0" y="120" font-family="'TimesNewRomanPSMT'" font-size="9.5"> 1. </tspan><tspan x="11.875" y="120" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">不要在传感器上部放置物品。</tspan><tspan x="0" y="135" font-family="'TimesNewRomanPSMT'" font-size="9.5"> 2. </tspan><tspan x="11.875" y="135" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">在雾、雨或阴天，使用手动模式。</tspan><tspan x="0" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5"> 3. </tspan><tspan x="11.875" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.19">根据周围环境（天气、气候）的不同，自动灯光</tspan><tspan x="215.365" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.19"> ON/OFF </tspan><tspan x="255.417" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.19">时间将会变化。</tspan><tspan x="0" y="165" font-family="'TimesNewRomanPSMT'" font-size="9.5"> 4. </tspan><tspan x="11.875" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.199">在日出和日落时使用此模式。在其它时间手动控制灯光</tspan><tspan x="235.087" y="165" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.199"> ON/OFF </tspan><tspan x="272.022" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.199">开关。</tspan><tspan x="0" y="180" font-family="'TimesNewRomanPSMT'" font-size="9.5"> 5.</tspan><tspan x="9.5" y="180" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.257">如果在挡风玻璃上增加了涂层或加膜，会造成传感器失效。</tspan><tspan x="0" y="210" stroke="#000000" stroke-width="2" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">ㆍ</tspan><tspan x="10" y="210" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">调光</tspan><tspan x="30" y="210" font-family="'TimesNewRomanPSMT'" font-size="10">/</tspan><tspan x="32.78" y="210" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">超车开关：近光</tspan><tspan x="0" y="225" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </tspan><tspan x="9.5" y="225" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">当</tspan><tspan x="19" y="225" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">灯光开关在大灯模式，</tspan><tspan x="113.905" y="225" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">调光</tspan><tspan x="132.905" y="225" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">/</tspan><tspan x="135.537" y="225" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">超车开关位于近光位置时，组合开关</tspan><tspan x="287.384" y="225" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">ECU</tspan><tspan x="306.355" y="225" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">通过</tspan><tspan x="0" y="240" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">    B-CAN</tspan><tspan x="38.969" y="240" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">通信传输信号至</tspan><tspan x="105.402" y="240" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">IPS</tspan><tspan x="119.101" y="240" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">控制模块。</tspan><tspan x="0" y="255" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">    IPS</tspan><tspan x="23.161" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">控制模块控制</tspan><tspan x="80.104" y="255" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">ARISU-LT 1</tspan><tspan x="130.406" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">、</tspan><tspan x="139.896" y="255" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">2</tspan><tspan x="144.637" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">，控制大灯</tspan><tspan x="192.089" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">(</tspan><tspan x="196.83" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">近光</tspan><tspan x="215.811" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">)</tspan><tspan x="220.551" y="255" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">ON</tspan><tspan x="234.25" y="255" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">。</tspan><tspan x="0" y="285" stroke="#000000" stroke-width="2" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">ㆍ</tspan><tspan x="10" y="285" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">调光</tspan><tspan x="30" y="285" font-family="'TimesNewRomanPSMT'" font-size="10">/</tspan><tspan x="32.78" y="285" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">超车开关：远光</tspan><tspan x="0" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="4.75" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="9.5" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">当</tspan><tspan x="19" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">灯光开关在大灯模式，</tspan><tspan x="113.905" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">调光</tspan><tspan x="132.905" y="300" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">/</tspan><tspan x="135.537" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">超车开关位于远光位置时，组合开关</tspan><tspan x="287.384" y="300" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">ECU</tspan><tspan x="306.355" y="300" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">通过</tspan><tspan x="0" y="315" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">    B-CAN</tspan><tspan x="38.969" y="315" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">通信传输信号至</tspan><tspan x="105.402" y="315" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">IPS</tspan><tspan x="119.101" y="315" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">控制模块。</tspan><tspan x="0" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </tspan><tspan x="9.5" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.294">IPS</tspan><tspan x="22.344" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">控制模块控制</tspan><tspan x="77.577" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.294">ARISU-LT 1</tspan><tspan x="125.029" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">、</tspan><tspan x="134.234" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.294">2</tspan><tspan x="138.69" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">，</tspan><tspan x="147.896" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">控制大灯</tspan><tspan x="185.857" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">(</tspan><tspan x="190.598" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">远光</tspan><tspan x="209.579" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">)</tspan><tspan x="214.319" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.009">ON</tspan><tspan x="228.018" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.009">，</tspan><tspan x="237.508" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">并通过</tspan><tspan x="265.125" y="330" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.294">C-CAN</tspan><tspan x="293.207" y="330" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">通信传输</tspan><tspan x="0" y="345" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294"> </tspan><tspan x="4.456" y="345" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294"> </tspan><tspan x="8.911" y="345" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">信号至仪表盘的微型控制器，控制仪表盘上的大灯远光指示灯</tspan><tspan x="257.459" y="345" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.294">ON</tspan><tspan x="270.588" y="345" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.294">。</tspan></text>
+				</switch>
+				<path i:knockout="Off" fill="none" stroke="#909090" stroke-width="0.6" stroke-dasharray="24 3 5 5" d="M357.144,30.989
+					v475.014"/>
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M365.218,40.423"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  stroke="#000000" stroke-width="2" font-family="'Gulim'" font-size="10" a:adobe-justification-word-spacing-max="3"  a:adobe-justification-letter-spacing-max="2" line-height="15" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p><span>ㆍ</span><span  stroke="none" font-family="'SimHei'">调光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'">/</span><span  stroke="none" font-family="'SimHei'">超车开关：超车</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">不管灯光开关是否在大灯位置，超车开关都有效。向驾驶员方向快速拉放</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">调光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.01em">/</span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">超</span></p>
+								<p><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">  </span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">车开关</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.01em">2~3</span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">次，大灯近光和远光交替闪烁，警告其它车辆，并仪表盘上的远光指</span></p>
+								<p><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">  </span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="-0.01em">示灯也闪烁。</span></p>
+								<p></p>
+								<p><span>ㆍ</span><span  stroke="none" font-family="'SimHei'">控制功能</span><span  stroke="none" font-family="'TimesNewRomanPSMT'"> - CAN</span><span  stroke="none" font-family="'SimHei'">通信故障</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">如果</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">CAN</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">通信故障，且点火开关位于</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">ON</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">，室内接线盒强制控制大灯</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">(</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">近光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">)ON</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">。</span></p>
+								<p></p>
+								<p><span>ㆍ</span><span  stroke="none" font-family="'SimHei'">护送灯光功能</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">此系统在夜间为驾驶员提供能见度。</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    1. </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">如果点火开关转至</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.001em">ACC</span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="0.001em">或</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.001em">OFF</span><span  stroke="none" font-family="'SimHei'" font-size="9.5" letter-spacing="0.001em">位置，护送灯光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">ON</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">，护送灯光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">(</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">尾灯</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">)</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">保持亮持</span></p>
+								<p><span  stroke="none" font-family="'SimHei'" font-size="9.5">    </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">续</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">20</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">分钟。</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    2. </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">如果驾驶席车门打开和关闭，</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">30</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">秒后护送灯光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">。</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">    3. </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">按动遥控器</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5"> (</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">或智能钥匙</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">)</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">上的闭锁按钮</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">2</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">次，或将灯光开关转至</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">或</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">Auto</span></p>
+								<p><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">        </span><span  stroke="none" font-family="'SimHei'" font-size="9.5">位置，护送灯光</span><span  stroke="none" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</span><span  stroke="none" font-family="'SimHei'" font-size="9.5">。</span></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_3_" ></x:targetRef>
+					</foreignObject>
+					<text id="XMLID_3_" transform="matrix(1 0 0 1 365.218 40.4231)"><tspan x="0" y="0" stroke="#000000" stroke-width="2" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">ㆍ</tspan><tspan x="10" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">调光</tspan><tspan x="30" y="0" font-family="'TimesNewRomanPSMT'" font-size="10">/</tspan><tspan x="32.78" y="0" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">超车开关：超车</tspan><tspan x="0" y="15" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </tspan><tspan x="9.5" y="15" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095">不管灯光开关是否在大灯位置，超车开关都有效。向驾驶员方向快速拉放</tspan><tspan x="310.46" y="15" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">调光</tspan><tspan x="329.46" y="15" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.095">/</tspan><tspan x="332.006" y="15" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095">超</tspan><tspan x="0" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095"> </tspan><tspan x="4.655" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095"> </tspan><tspan x="9.31" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095">车开关</tspan><tspan x="37.525" y="30" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="-0.095">2~3</tspan><tspan x="51.879" y="30" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095">次，大灯近光和远光交替闪烁，警告其它车辆，并仪表盘上的远光指</tspan><tspan x="0" y="45" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095"> </tspan><tspan x="4.655" y="45" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095"> </tspan><tspan x="9.31" y="45" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="-0.095">示灯也闪烁。</tspan><tspan x="0" y="75" stroke="#000000" stroke-width="2" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">ㆍ</tspan><tspan x="10" y="75" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">控制功能</tspan><tspan x="50" y="75" font-family="'TimesNewRomanPSMT'" font-size="10"> - CAN</tspan><tspan x="79.439" y="75" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">通信故障</tspan><tspan x="0" y="90" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </tspan><tspan x="9.5" y="90" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">如果</tspan><tspan x="28.5" y="90" font-family="'TimesNewRomanPSMT'" font-size="9.5">CAN</tspan><tspan x="48.554" y="90" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">通信故障，且点火开关位于</tspan><tspan x="162.554" y="90" font-family="'TimesNewRomanPSMT'" font-size="9.5">ON</tspan><tspan x="176.272" y="90" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">，室内接线盒强制控制大灯</tspan><tspan x="290.272" y="90" font-family="'TimesNewRomanPSMT'" font-size="9.5">(</tspan><tspan x="293.435" y="90" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">近光</tspan><tspan x="312.435" y="90" font-family="'TimesNewRomanPSMT'" font-size="9.5">)ON</tspan><tspan x="329.316" y="90" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">。</tspan><tspan x="0" y="120" stroke="#000000" stroke-width="2" font-family="'Gulim'"  a:adobe-font-script="korean" font-size="10">ㆍ</tspan><tspan x="10" y="120" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="10">护送灯光功能</tspan><tspan x="0" y="135" font-family="'TimesNewRomanPSMT'" font-size="9.5">    </tspan><tspan x="9.5" y="135" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">此系统在夜间为驾驶员提供能见度。</tspan><tspan x="0" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5">    1. </tspan><tspan x="19" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">如果点火开关转至</tspan><tspan x="95" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.009">ACC</tspan><tspan x="114.56" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.009">或</tspan><tspan x="124.07" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5" letter-spacing="0.009">OFF</tspan><tspan x="141.521" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5" letter-spacing="0.009">位置，护送灯光</tspan><tspan x="208.087" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5">ON</tspan><tspan x="221.805" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">，护送灯光</tspan><tspan x="269.305" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5">(</tspan><tspan x="272.469" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">尾灯</tspan><tspan x="291.469" y="150" font-family="'TimesNewRomanPSMT'" font-size="9.5">)</tspan><tspan x="294.632" y="150" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">保持亮持</tspan><tspan x="0" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="4.75" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="9.5" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="14.25" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5"> </tspan><tspan x="19" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">续</tspan><tspan x="28.5" y="165" font-family="'TimesNewRomanPSMT'" font-size="9.5">20</tspan><tspan x="38" y="165" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">分钟。</tspan><tspan x="0" y="180" font-family="'TimesNewRomanPSMT'" font-size="9.5">    2. </tspan><tspan x="19" y="180" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">如果驾驶席车门打开和关闭，</tspan><tspan x="142.5" y="180" font-family="'TimesNewRomanPSMT'" font-size="9.5">30</tspan><tspan x="152" y="180" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">秒后护送灯光</tspan><tspan x="209" y="180" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</tspan><tspan x="226.423" y="180" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">。</tspan><tspan x="0" y="195" font-family="'TimesNewRomanPSMT'" font-size="9.5">    3. </tspan><tspan x="19" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">按动遥控器</tspan><tspan x="66.5" y="195" font-family="'TimesNewRomanPSMT'" font-size="9.5"> (</tspan><tspan x="72.039" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">或智能钥匙</tspan><tspan x="119.539" y="195" font-family="'TimesNewRomanPSMT'" font-size="9.5">)</tspan><tspan x="122.702" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">上的闭锁按钮</tspan><tspan x="179.702" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">2</tspan><tspan x="184.452" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">次，或将灯光开关转至</tspan><tspan x="279.452" y="195" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</tspan><tspan x="296.875" y="195" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">或</tspan><tspan x="306.375" y="195" font-family="'TimesNewRomanPSMT'" font-size="9.5">Auto</tspan><tspan x="0" y="210" font-family="'TimesNewRomanPSMT'" font-size="9.5">        </tspan><tspan x="19" y="210" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">位置，护送灯光</tspan><tspan x="85.5" y="210" font-family="'TimesNewRomanPSMT'" font-size="9.5">OFF</tspan><tspan x="102.923" y="210" font-family="'SimHei'"  a:adobe-font-script="chineseSimplified" font-size="9.5">。</tspan></text>
+				</switch>
+				<switch i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+					<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+						<flowDef  xmlns="http://ns.adobe.com/Flows/1.0/">
+							<region>
+								<path d="M244.021,164.781"/>
+							</region>
+							<flow  xmlns="http://ns.adobe.com/Flows/1.0/"  font-family="'Gulim'" font-size="9.5" a:adobe-justification-word-spacing-max="3"  a:adobe-justification-letter-spacing-max="2" letter-spacing="-0.006em" line-height="15" kerning="0em"  a:adobe-baseline-direction="vertical-rotated">
+								<p></p>
+							</flow>
+						</flowDef>
+						<x:targetRef  xlink:href="#XMLID_4_" ></x:targetRef>
+					</foreignObject>
+					<g>
+						<g id="XMLID_4_">
+						</g>
+					</g>
+				</switch>
+			</g>
+		</g>
+	</switch>
+	<i:pgf  id="adobe_illustrator_pgf">
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		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
+		]]>
+		<![CDATA[
+		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
+AJWNYag=
+		]]>
+	</i:pgf>
+</svg>
