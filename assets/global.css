@@ -193,7 +193,7 @@ body {
 .accordeon li > div {
   color: black;
   cursor: pointer;
-  padding: 6px 10px 6px 30px; /* left space for icon */
+  padding: 6px 10px 6px 36px; /* left space for icon */
   border-radius: 8px;
   /* icons: replace these URLs with your real ones if different */
   background: url(plus.png) no-repeat;
