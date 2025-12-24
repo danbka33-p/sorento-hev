@@ -16,6 +16,10 @@
 .g-f70eeec843 { margin-bottom: 0px; margin-top: 5px; }
 .g-fefc526277 { background-color: #dddddd; font-weight: bold; text-align: center; }
 
+/* =============================
+   Responsive layout + accordion
+   ============================= */
+
 /* -----------------------------
    Base
 ----------------------------- */
@@ -25,6 +29,8 @@ html, body {
 body {
   margin: 0;
 }
+
+/* Root wrapper */
 #allSite {
   min-height: 100vh;
 }
@@ -43,6 +49,8 @@ body {
   align-items: center;
   gap: 10px;
 }
+
+/* menu button */
 #menuBtn {
   appearance: none;
   border: 1px solid #ddd;
@@ -53,6 +61,8 @@ body {
   line-height: 1;
   cursor: pointer;
 }
+
+/* optional title in topbar */
 #topTitle {
   font-size: 14px;
   color: #333;
@@ -77,17 +87,21 @@ body {
   #allSite {
     display: grid;
     grid-template-columns: minmax(320px, 25%) 1fr;
+    min-height: 100vh;
   }
+
   #leftMenu, #content {
     max-height: 100vh;
     overflow-y: auto !important;
     padding-bottom: 4em;
   }
+
   #leftMenu {
     border-right: 1px solid #e5e5e5;
     background: #fafafa;
     padding: 10px 8px;
   }
+
   #content {
     padding: 16px 18px;
   }
@@ -97,8 +111,14 @@ body {
    Mobile layout (off-canvas menu)
 ----------------------------- */
 @media (max-width: 960px) {
+  :root {
+    /* fallback; can be overridden by JS that measures #topbar */
+    --topbar-h: 48px;
+  }
+
   #topbar {
     display: flex;
+    height: var(--topbar-h);
   }
 
   /* content becomes normal flow */
@@ -109,9 +129,9 @@ body {
   /* sidebar becomes off-canvas */
   #leftMenu {
     position: fixed;
-    top: 0;
     left: 0;
-    height: 100vh;
+    top: var(--topbar-h) + 10px;
+    height: calc(100vh - var(--topbar-h));
     width: min(88vw, 360px);
     z-index: 45;
     background: #fafafa;
@@ -122,6 +142,12 @@ body {
     transform: translateX(-105%);
     transition: transform 160ms ease;
     will-change: transform;
+  }
+
+  /* overlay should also start under topbar */
+  #overlay {
+    top: var(--topbar-h);
+    height: calc(100vh - var(--topbar-h));
   }
 
   /* when menu open */
@@ -152,26 +178,35 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* IMPORTANT: indentation comes from nested UL */
 .accordeon ul {
   display: none;
   margin: 0;
-  padding-left: 18px;
+  padding-left: 18px; /* depth indent */
 }
 .accordeon li.active > ul {
   display: block;
 }
+
+/* clickable row */
 .accordeon li > div {
   color: black;
   cursor: pointer;
-  padding: 6px 10px 6px 30px;
+  padding: 6px 10px 6px 30px; /* left space for icon */
+  border-radius: 8px;
+  /* icons: replace these URLs with your real ones if different */
   background: url(plus.png) no-repeat;
   background-position: 6px 8px;
-  border-radius: 8px;
 }
+
+/* pdf row icon */
 .accordeon li > div.pdf {
   background: url(pdf.png) no-repeat;
   background-position: 6px 8px;
 }
+
+/* hover */
 .accordeon li > div:hover,
 .accordeon li > div:hover a {
   color: black !important;
@@ -179,11 +214,15 @@ body {
   background: url(minus.png) no-repeat;
   background-position: 6px 8px;
 }
+
+/* folders active: show minus + bold */
 .accordeon li.active > div {
   background: url(minus.png) no-repeat;
   background-position: 6px 8px;
   font-weight: bold;
 }
+
+/* file leaf */
 .thisFile a {
   text-decoration: none;
 }
@@ -194,14 +233,34 @@ body {
 .accordeon li.active > .thisFile {
   font-weight: bold;
 }
+
+/* current doc highlight */
 .accordeon .thisFile.current a {
   font-weight: bold !important;
   background: #dfefff;
   padding: 2px 4px;
   border-radius: 6px;
 }
+
+/* optional: make sidebar items consistent */
 .accordeon a {
   color: black !important;
+}
+
+/* -----------------------------
+   Optional content hardening (mobile friendly)
+   Add if your docs have wide tables/images/code blocks
+----------------------------- */
+#content img, #content video, #content iframe {
+  max-width: 100%;
+  height: auto;
+}
+#content table {
+  max-width: 100%;
+}
+#content pre, #content code {
+  max-width: 100%;
+  overflow-x: auto;
 }
 
 
