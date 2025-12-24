@@ -15,140 +15,196 @@
 .g-ed2ddec826 { padding-left: 3px; }
 .g-f70eeec843 { margin-bottom: 0px; margin-top: 5px; }
 .g-fefc526277 { background-color: #dddddd; font-weight: bold; text-align: center; }
-/* --- Layout (Bootstrap-like col-3 / col-9) --- */
+
+/* -----------------------------
+   Base
+----------------------------- */
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+}
 #allSite {
-  display: grid;
-  grid-template-columns: minmax(320px, 25%) 1fr; /* left ~col-3, right ~col-9 */
   min-height: 100vh;
 }
 
-#leftMenu, #content {
-  max-height: 100vh;
-  overflow-y: auto !important;
-  padding-bottom: 4em;
+/* -----------------------------
+   Topbar (mobile)
+----------------------------- */
+#topbar {
+  display: none;              /* desktop hidden */
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 8px 10px;
+  align-items: center;
+  gap: 10px;
+}
+#menuBtn {
+  appearance: none;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+#topTitle {
+  font-size: 14px;
+  color: #333;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-#leftMenu {
-  border-right: 1px solid #e5e5e5;
-  background: #fafafa;
-  padding: 10px 8px;
+/* overlay for mobile sidebar */
+#overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 40;
 }
 
-#content {
-  padding: 16px 18px;
+/* -----------------------------
+   Desktop layout (2 columns)
+----------------------------- */
+@media (min-width: 961px) {
+  #allSite {
+    display: grid;
+    grid-template-columns: minmax(320px, 25%) 1fr;
+  }
+  #leftMenu, #content {
+    max-height: 100vh;
+    overflow-y: auto !important;
+    padding-bottom: 4em;
+  }
+  #leftMenu {
+    border-right: 1px solid #e5e5e5;
+    background: #fafafa;
+    padding: 10px 8px;
+  }
+  #content {
+    padding: 16px 18px;
+  }
 }
 
-/* --- Accordion (original-like, but with local assets/) --- */
-/* IMPORTANT: put icons into ./assets/:
-   plus.png, minus.png, file.png, pdf.png (optional) */
+/* -----------------------------
+   Mobile layout (off-canvas menu)
+----------------------------- */
+@media (max-width: 960px) {
+  #topbar {
+    display: flex;
+  }
 
+  /* content becomes normal flow */
+  #content {
+    padding: 12px 12px 64px;
+  }
+
+  /* sidebar becomes off-canvas */
+  #leftMenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: min(88vw, 360px);
+    z-index: 45;
+    background: #fafafa;
+    border-right: 1px solid #e5e5e5;
+    padding: 10px 8px;
+    overflow-y: auto !important;
+
+    transform: translateX(-105%);
+    transition: transform 160ms ease;
+    will-change: transform;
+  }
+
+  /* when menu open */
+  body.menu-open #leftMenu {
+    transform: translateX(0);
+  }
+  body.menu-open #overlay {
+    display: block;
+  }
+
+  /* prevent background scroll while menu open */
+  body.menu-open {
+    overflow: hidden;
+  }
+}
+
+/* -----------------------------
+   Accordion (original-like)
+----------------------------- */
 .accordeon {
   padding: 0;
   margin: 0;
 }
-
 .accordeon * {
   list-style: none;
 }
-
 .accordeon li {
   margin: 0;
   padding: 0;
 }
-
-/* Indentation comes from nested UL */
 .accordeon ul {
-  display: none;     /* collapsed by default */
+  display: none;
   margin: 0;
-  padding-left: 18px; /* depth indent */
+  padding-left: 18px;
 }
-
 .accordeon li.active > ul {
   display: block;
 }
-
-/* Base clickable row (bigger gap between icon and text) */
 .accordeon li > div {
   color: black;
   cursor: pointer;
-  padding: 4px 10px 4px 44px;            /* <<< more space for icon */
-  line-height: 1.3;
+  padding: 6px 10px 6px 30px;
   background: url(plus.png) no-repeat;
-  background-position: 12px 6px;         /* <<< icon position */
+  background-position: 6px 8px;
+  border-radius: 8px;
 }
-
-/* Folder active state (minus icon + bold) */
-.accordeon li.active > div:not(.thisFile) {
-  background: url(minus.png) no-repeat;
-  background-position: 12px 6px;
-  font-weight: bold;
+.accordeon li > div.pdf {
+  background: url(pdf.png) no-repeat;
+  background-position: 6px 8px;
 }
-
-/* Folder hover ONLY (not files) */
-.accordeon li > div:not(.thisFile):hover,
-.accordeon li > div:not(.thisFile):hover a {
+.accordeon li > div:hover,
+.accordeon li > div:hover a {
   color: black !important;
   text-decoration: underline !important;
   background: url(minus.png) no-repeat;
-  background-position: 12px 6px;
+  background-position: 6px 8px;
 }
-
-/* Links */
+.accordeon li.active > div {
+  background: url(minus.png) no-repeat;
+  background-position: 6px 8px;
+  font-weight: bold;
+}
+.thisFile a {
+  text-decoration: none;
+}
+.accordeon li .thisFile {
+  background: url(file.png) no-repeat !important;
+  background-position: 6px 8px !important;
+}
+.accordeon li.active > .thisFile {
+  font-weight: bold;
+}
+.accordeon .thisFile.current a {
+  font-weight: bold !important;
+  background: #dfefff;
+  padding: 2px 4px;
+  border-radius: 6px;
+}
 .accordeon a {
   color: black !important;
 }
 
-/* File leaf */
-.thisFile a {
-  text-decoration: none;
-}
 
-.accordeon li .thisFile {
-  background: url(file.png) no-repeat !important;
-  background-position: 12px 6px !important;
-}
-
-/* File hover keeps file icon (NO minus) */
-.accordeon li > div.thisFile:hover,
-.accordeon li > div.thisFile:hover a {
-  color: black !important;
-  text-decoration: underline !important;
-  background: url(file.png) no-repeat !important;
-  background-position: 12px 6px !important;
-}
-
-/* If you have PDF nodes (optional) */
-.accordeon li > div.pdf {
-  background: url(pdf.png) no-repeat;
-  background-position: 12px 6px;
-}
-
-/* Current doc highlight */
-.accordeon .thisFile.current a {
-  font-weight: bold !important;
-  background: #dfefff;
-  padding: 2px 6px;
-  border-radius: 6px;
-}
-
-/* Make it slightly nicer to read */
-.accordeon li > div {
-  border-radius: 6px;
-}
-
-.accordeon li > div:hover {
-  background-color: rgba(0,0,0,0.03); /* subtle hover background */
-}
-
-/* Prevent hover background-color from replacing icon backgrounds */
-.accordeon li > div:hover {
-  background-blend-mode: normal;
-}
-
-/* Optional: tighter spacing between rows */
-.accordeon li > div {
-  margin: 1px 0;
-}
 
 .table-td-st1-t {
     font-size: 30px;
